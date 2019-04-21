@@ -1,9 +1,10 @@
 import React from "react";
+import "./Header.css";
 
 function Header() {
   return (
-    <div>
-      <h1>header</h1>
+    <div className="tittle">
+      <h2>Random Aeropress Recipe</h2>
     </div>
   );
 }

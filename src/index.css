@@ -1,4 +1,16 @@
-@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Merriweather|Roboto|Roboto+Condensed:300");
+:root {
+  --color-primary-1: #54e4c0;
+  --color-primary-2: #56dab9;
+
+  --color-background-1: #eeeeee;
+  --color-background-2: #fcfcfc;
+
+  --color-text-1: rgb(69, 61, 70);
+  --color-text-2: #555;
+  --color-text-3: #eee;
+  --color-text-4: #fff;
+}
 
 html {
   box-sizing: border-box;
@@ -12,9 +24,7 @@ html {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.6;
