@@ -5,22 +5,31 @@
   box-shadow: 1px 1px 8px 2px rgba(0, 0, 0, 0.15);
   font-family: "Roboto Condensed", sans-serif;
   background-color: var(--color-primary-2);
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   color: var(--color-text-1);
+}
+
+.tittle > h2 {
+  text-align: center;
 }
 
 @media all and (max-width: 340px) {
   .tittle {
-    padding: 1.3rem 1.6rem;
-    font-size: 0.9rem;
-    letter-spacing: 2px;
+    font-size: 0.85rem;
   }
 }
 
-@media (min-width: 340px) and (max-width: 480px) {
+@media (min-width: 340px) and (max-width: 380px) {
+  .tittle {
+    padding: 1.3rem 1.6rem;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+  }
+}
+
+@media (min-width: 380px) and (max-width: 480px) {
   .tittle {
     padding: 1.7rem 2rem;
     font-size: 1rem;
-    letter-spacing: 2px;
   }
 }
