@@ -4,7 +4,9 @@ Aeropress Recipe Generator is a single web app to generato random aeropress reci
 
 Build with React.
 
-## Demo
+![ScreenShot](https://raw.github.com/gonnzalo/personal-website/master/src/images/coffee.png)
+
+## Live Demo
 
 [https://coffee-dice.gonnzalo.now.sh/](https://coffee-dice.gonnzalo.now.sh/)
 
