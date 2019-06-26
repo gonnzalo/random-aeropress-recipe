@@ -40,7 +40,7 @@ Contributions, issues and feature requests are welcome.
 
 ## Author
 
-- [gonnzalo](https://)
+- [gonnzalo](https://github.com/gonnzalo)
 
 ## License
 
