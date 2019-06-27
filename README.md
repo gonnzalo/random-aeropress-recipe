@@ -1,6 +1,6 @@
 # Aeropress Recipe Generator
 
-Aeropress Recipe Generator is a single web app to generato random aeropress recipe. This app is base on Coffee Brewing Dice: Aeropress Edition by James Hoffmann
+Aeropress Recipe Generator is a single web app to generate random Aeropress recipe. This app is base on Coffee Brewing Dice: Aeropress Edition by James Hoffmann
 
 Build with React.
 
